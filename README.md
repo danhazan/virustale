@@ -1,4 +1,5 @@
-[The Game](https://danhazan.github.io/virustale/)
+To play the game:
+https://danhazan.github.io/virustale/
 
 There is a deadly virus plaguing the nation, and you're just a simple citizen with regular stuff to do! Can you do your shopping safely with all of those contagious kids running around? Or just walk down the street? Stand in line at the DMV???
 
